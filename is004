@@ -1,0 +1,16 @@
+3a)what is git status used for?
+>git status command displays the stage of working directory
+
+3b)command used to intialise
+>git config --global user.name"user"
+  git congig --global user.mail"mail"
+ git init
+
+3c)get the file of foreign repo into your folder
+>*click on code
+*copy the url of foreign repo
+*open your file and open gitbash
+*type gitclone"foriegn repo link"
+
+3d)recover branch name if we forget
+>
